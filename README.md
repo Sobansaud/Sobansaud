@@ -75,7 +75,7 @@ Currently exploring **Agentic AI**, **LLMs**, and **Autonomous AI Tools** that c
 ---
 
 ## 🐍 Snake Animation
-![snake gif](https://github.com/sobansaud/sobansaud/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sobansaud/Sobansaud/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

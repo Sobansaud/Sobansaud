@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hey there, I'm Muhammad Soban Saud</h1>
-<h3 align="center">🚀 Founder of <a href="https://codefusion.ai" target="_blank">CodeFusion.AI</a> | Full Stack Developer | AI Agentic Innovator</h3>
+<!-- Typing Animation (Header) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1100&lines=👋+I'm+Muhammad+Soban+Saud;🚀+Full+Stack+Developer+%7C+AI+Engineer;🌐+Founder+of+CodeFusion.AI;🤖+Building+Agentic+AI+%26+Smart+Apps;💻+Turning+Ideas+into+Reality" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+<h3 align="center">Full Stack Developer | AI Agent Developer | Founder of <a href="https://codefusion.ai" target="_blank">CodeFusion.AI</a></h3>
 
 <p align="center">
   <a href="https://sobansaudss.vercel.app" target="_blank">
@@ -31,14 +36,14 @@ I craft stunning, intelligent, and high-performance digital experiences that mer
 - Designing **PDF/CV generators**, **automation workflows**, or **real-time admin systems**
 - Integrating APIs like **Stripe**, **OpenAI SDK**, or **FastAPI backends**
 
-🎯 My mission is simple: **Build tech that looks good, works smart, and solves real problems beautifully.**
+🎯 My mission: **Build tech that looks good, works smart, and solves real problems beautifully.**
 
-Currently, I’m diving deep into **Agentic AI**, **LLMs**, and **OpenAI SDKs** to create tools that *think, act, and assist autonomously.*
+Currently exploring **Agentic AI**, **LLMs**, and **Autonomous AI Tools** that can think, act, and assist in real-time.
 
 ---
 
 ## 💼 What I Do
-- 🌍 Founder of **[CodeFusion.AI](https://codefusion.ai)** — Building the future of Agentic AI Tools  
+- 🌍 Founder of **[CodeFusion.AI](https://codefusion.ai)** — Creating next-gen AI solutions  
 - 💻 Frontend: **React.js**, **Next.js**, **Tailwind CSS**, **Framer Motion**  
 - ⚙️ Backend: **Node.js**, **FastAPI**, **Firebase**, **Supabase**, **MongoDB**, **SQL**  
 - 🤖 AI/Automation: **Python**, **Agentic AI**, **n8n**, **OpenAI SDKs**, **LangChain**  
@@ -73,12 +78,12 @@ Currently, I’m diving deep into **Agentic AI**, **LLMs**, and **OpenAI SDKs** 
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements
 - 🏗️ Built **3 full-fledged eCommerce websites**
-- 🎓 Studying **Quarter 3: OpenAI Agent SDK & AI Development** at Governor House  
-- 🤝 Collaborated on **open-source projects & hackathons**
-- 🚀 Launched **CodeFusion.AI** — a platform for next-gen AI products  
-- 🧠 Self-taught, problem-solver, and passionate learner
+- 🎓 Studying **OpenAI Agent SDK & AI Development** at Governor House  
+- 🚀 Launched **CodeFusion.AI** — Building the future of AI tools  
+- 🤝 Collaborated in hackathons & open-source communities  
+- 🧠 Self-taught, passionate learner, and innovation-driven creator
 
 ---
 
@@ -93,6 +98,13 @@ Currently, I’m diving deep into **Agentic AI**, **LLMs**, and **OpenAI SDKs** 
 
 ---
 
+<!-- Typing Animation (Footer) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=🌍+Thanks+for+visiting!;✨+Stay+curious+%26+keep+innovating!;🚀+Let's+build+the+future+together!;💡+Learn.+Code.+Evolve.;💻+From+Muhammad+Soban+Saud+with+💙" alt="Typing SVG" />
+</p>
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sobansaud&color=brightgreen)
 
-⭐️ *From [Sobansaud](https://github.com/Sobansaud) | Crafted with ❤️ using Markdown & Magic*
+⭐️ *From [Sobansaud](https://github.com/Sobansaud) — Crafted with ❤️ using Markdown & Magic ✨*
